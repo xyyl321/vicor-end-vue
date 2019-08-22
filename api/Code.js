@@ -1,0 +1,5 @@
+const CODE_SUCCESS = 200;
+const CODE_FAIL = 404;
+const CODE_FOUND = 401;
+
+export default {CODE_SUCCESS,CODE_FAIL,CODE_FOUND}
